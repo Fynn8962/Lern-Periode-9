@@ -43,7 +43,6 @@ Vergessen Sie nicht, einen ersten Entwurf Ihrer Start-Seite in der entsprechende
 
 ## 28.02.2025
 
-- [ ] CV zusammenstellen
 - [ ] LinkedIn-Profil erstellen / ausputzen
 - [ ] GitHub-Profil professionalisieren (`readme.md`)
 - [ ] Start-Seite: Was ist das dringendste AP?
