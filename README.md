@@ -21,21 +21,22 @@
 
 ## 21.02.2025
 
-- [ ] Ein Grundgerüst für meine Startseite erstellen. Dieses sollte einen Abholer-Satz und Kontaktinformationen beeinhalten, auf meinen CV verlinken, und einige Projekte in den Vordergrund stellen.
-  - [ ] Ein ansprechendes Layout für die Startseite auf Papier entworfen, zusammen mit einem "Abholer-Satz", der die Aufmerksamkeit des Praktikumsgebers *in spe* auf sich zieht.
-  - [ ] Dieses Layout auf rudimentäre Weise mit HTML und CSS umsetzen
+- [x] Ein Grundgerüst für meine Startseite erstellen. 
+  - [x] Ein ansprechendes Layout für die Startseite auf Papier entworfen, zusammen mit einem "Abholer-Satz", der die Aufmerksamkeit des Praktikumsgebers *in spe* auf sich zieht.
+  - [x] Dieses Layout auf rudimentäre Weise mit HTML und CSS umsetzen
 
-- [ ] Online-Präsenz: Wenn der Arbeitgeber *in spe* meinen Namen auf einer Suchmaschine eingibt, sollen vor allem seriöse Informationen erscheinen, wenn überhaupt. 
+- [x] Online-Präsenz: Wenn der Arbeitgeber *in spe* meinen Namen auf einer Suchmaschine eingibt, sollen vor allem seriöse Informationen erscheinen, wenn überhaupt. 
 - [ ] Referenz-Schreiben ausfüllen:
-  - [ ] Einige Kern-Eigenschaften aufschreiben, die mich ausmachen.
-  - [ ] Evidenz für diese Eigenschaften finden und ausformulieren
+  - [x] Einige Kern-Eigenschaften aufschreiben, die mich ausmachen.
+  - [x] Evidenz für diese Eigenschaften finden und ausformulieren
   - [ ] Rechtschreibeprüfung
 
  &nbsp;
 
 **Heute habe ich... (50-100 Wörter)**
+Heute habe ich zuerst auf GitHub die zwei neuen Repositorys, eins für die LP9 und eins für die Bewerbungswebsite. Anschliessend habe ich auf Blatt papier ein kleines Grundgerüst für meine Bewerbungswebsite gezeichnet bis den verschiedenen Inhalten die dort drinne sein sollen. Anschlissend habe ich mittels VScode ein rudimentäres HTML und CSS konstrukt gemacht damit ich schonmal etwas auf GitHub hochladen konnte. Anschliessend habe ich Eigenschaften aufgeschriben die wichtig sind für die IT-Ausbildung und ein Referenzschreiben über mich selbst erstellt
 
-Vergessen Sie nicht, einen ersten Entwurf Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
+Vergessen Sie nicht, einen ersten Entwurf Ihrer Start-Seite in der entsprechenden Ablage hochzuladen. 
 
 &nbsp;
  
