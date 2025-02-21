@@ -8,7 +8,11 @@
 2. Wie sieht Ihr *skill portfolio* aus? Was können Sie bereits, und was wäre etwas, das Sie lernen möchten?
 3. Was wäre ein gutes Projekt für die zweite Hälfte dieser Lern-Periode?
 
-## 21.2
+&nbsp;
+ 
+&nbsp;
+
+## 21.02.2025
 
 - [ ] Ein Grundgerüst für meine Startseite erstellen. Dieses sollte einen Abholer-Satz und Kontaktinformationen beeinhalten, auf meinen CV verlinken, und einige Projekte in den Vordergrund stellen.
   - [ ] Ein ansprechendes Layout für die Startseite auf Papier entworfen, zusammen mit einem "Abholer-Satz", der die Aufmerksamkeit des Praktikumsgebers *in spe* auf sich zieht.
@@ -20,23 +24,34 @@
   - [ ] Evidenz für diese Eigenschaften finden und ausformulieren
   - [ ] Rechtschreibeprüfung
 
+ &nbsp;
 
 Heute habe ich... (50-100 Wörter)
 
 Vergessen Sie nicht, einen ersten Entwurf Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
 
-## 28.2
+&nbsp;
+ 
+&nbsp;
+
+## 28.02.2025
 
 - [ ] CV zusammenstellen
 - [ ] LinkedIn-Profil erstellen / ausputzen
 - [ ] GitHub-Profil professionalisieren (`readme.md`)
 - [ ] Start-Seite: Was ist das dringendste AP?
 
+ &nbsp;
+
 Heute habe ich... (50-100 Wörter)
 
 Vergessen Sie nicht, die angepasste Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
 
-## 7.3
+&nbsp;
+ 
+&nbsp;
+
+## 07.03.2025
 
 - [ ] 
 - [ ] CV-Seite erstellen
@@ -44,11 +59,17 @@ Vergessen Sie nicht, die angepasste Version Ihrer Start-Seite in der entsprechen
 - [ ] Start-Seite 2
 - [ ] Rückmeldung geben.
 
+ &nbsp;
+
 Heute habe ich... (50-100 Wörter)
 
 Vergessen Sie nicht, die fertige Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
 
-## 14.3
+&nbsp;
+ 
+&nbsp;
+
+## 14.03.2025
 
 - [ ] 
 - [ ] ...
