@@ -47,6 +47,8 @@ Vergessen Sie nicht, einen ersten Entwurf Ihrer Start-Seite in der entsprechende
 - [ ] LinkedIn-Profil erstellen / ausputzen
 - [ ] GitHub-Profil professionalisieren (`readme.md`)
 - [ ] Start-Seite: Was ist das dringendste AP?
+- [ ] Farbschema aus 3 Farben gut in Website integrieren
+- [ ] Schöner Effekt wie Name auf der Startseite erscheint (fade, reinscheiben)
 
  &nbsp;
 
