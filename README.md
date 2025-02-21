@@ -77,6 +77,8 @@ Vergessen Sie nicht, die fertige Version Ihrer Start-Seite in der entsprechenden
 - [ ] ...
 - [ ] ...
 
+&nbsp;
+
 **Heute habe ich... (50-100 Wörter)**
 
 Vergessen Sie nicht, einen ersten Code Ihres Projektes in dieser Ablage hochzuladen.
