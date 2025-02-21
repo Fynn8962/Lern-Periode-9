@@ -12,7 +12,7 @@
         Was ich lernen möchte: Python, Rust, Java.          
         
 **3. Was wäre ein gutes Projekt für die zweite Hälfte dieser Lern-Periode?**                                                    
-        Alarm Clock (zeit, Countdowm, Stopwatch, alarm) / Wechselkurs umrechner mit API      
+        Alarm Clock (zeit, Countdowm, Stopwatch, alarm) / Wechselkurs umrechner mit API    
         
 
 &nbsp;
