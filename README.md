@@ -26,7 +26,7 @@
 
  &nbsp;
 
-###Heute habe ich... (50-100 Wörter)
+### Heute habe ich... (50-100 Wörter)
 
 Vergessen Sie nicht, einen ersten Entwurf Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
 
@@ -43,7 +43,7 @@ Vergessen Sie nicht, einen ersten Entwurf Ihrer Start-Seite in der entsprechende
 
  &nbsp;
 
-###Heute habe ich... (50-100 Wörter)
+### Heute habe ich... (50-100 Wörter)
 
 Vergessen Sie nicht, die angepasste Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
 
@@ -61,7 +61,7 @@ Vergessen Sie nicht, die angepasste Version Ihrer Start-Seite in der entsprechen
 
  &nbsp;
 
-###Heute habe ich... (50-100 Wörter)
+### Heute habe ich... (50-100 Wörter)
 
 Vergessen Sie nicht, die fertige Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
 
@@ -77,6 +77,6 @@ Vergessen Sie nicht, die fertige Version Ihrer Start-Seite in der entsprechenden
 - [ ] ...
 - [ ] ...
 
-###Heute habe ich... (50-100 Wörter)
+### Heute habe ich... (50-100 Wörter)
 
 Vergessen Sie nicht, einen ersten Code Ihres Projektes in dieser Ablage hochzuladen.
