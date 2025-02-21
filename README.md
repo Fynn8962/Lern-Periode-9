@@ -5,12 +5,15 @@
 ## Grob-Planung
 
 **1. Welche Projekte haben Sie bereits auf Ihrem github, welche Sie verlinken könnten?**                    
-       Anfänger Python Projekt, Erste HTML/CSS Website, C# Console Game.                                       
+       Anfänger Python Projekt, Erste HTML/CSS Website, C# Console Game.
+       
 **2. Wie sieht Ihr *skill portfolio* aus? Was können Sie bereits, und was wäre etwas, das Sie lernen möchten?**                        
         Was ich kann: C#, HTML/CSS/Javascript, SQL, Powershell.                                         
-        Was ich lernen möchte: Python, Rust, Java.                                                            
+        Was ich lernen möchte: Python, Rust, Java.          
+        
 **3. Was wäre ein gutes Projekt für die zweite Hälfte dieser Lern-Periode?**                                                    
-        Alarm Clock (zeit, Countdowm, Stopwatch, alarm) / Wechselkurs umrechner mit API                             
+        Alarm Clock (zeit, Countdowm, Stopwatch, alarm) / Wechselkurs umrechner mit API      
+        
 
 &nbsp;
  
