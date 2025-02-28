@@ -44,8 +44,8 @@ Vergessen Sie nicht, einen ersten Entwurf Ihrer Start-Seite in der entsprechende
 
 ## 28.02.2025
 
-- [ ] LinkedIn-Profil erstellen / ausputzen
-- [ ] GitHub-Profil professionalisieren (`readme.md`)
+- [x] LinkedIn-Profil erstellen / ausputzen
+- [x] GitHub-Profil professionalisieren (`readme.md`)
 - [ ] Start-Seite: Was ist das dringendste AP?
 - [ ] Farbschema aus 3 Farben gut in Website integrieren
 - [ ] Schöner Effekt wie Name auf der Startseite erscheint (fade, reinscheiben)
