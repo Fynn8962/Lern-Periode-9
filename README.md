@@ -46,15 +46,16 @@ Vergessen Sie nicht, einen ersten Entwurf Ihrer Start-Seite in der entsprechende
 
 - [x] LinkedIn-Profil erstellen / ausputzen
 - [x] GitHub-Profil professionalisieren (`readme.md`)
-- [ ] Start-Seite: Was ist das dringendste AP?
-- [ ] Farbschema aus 3 Farben gut in Website integrieren
-- [ ] Schöner Effekt wie Name auf der Startseite erscheint (fade, reinscheiben)
+- [x] Start-Seite: Was ist das dringendste AP?
+- [x] Farbschema aus 3 Farben gut in Website integrieren
+- [x] 3 Bereiche für die Themen erstellen
 
  &nbsp;
 
 **Heute habe ich... (50-100 Wörter)**
+Zuerst habe ich ein LinkedIn Profil erstellt und diesem Informationen über mich hinzugefügt. Danach habe ich mein GitHub-Profil schöner gestaltet und ein Readme.md hinzugefügt, in welchem kurz paar Dinge zu meiner Person stehen. Als ich mit diesen zwei Aufträgen fertig war, arbeitete ich weiter an meiner Bewerbungswebsite. Ich habe zuerst nach einem Farbschema gesucht, damit ich Variablen definieren konnte. Diese kann ich dann später immer noch ändern und muss dadurch nicht im ganzen Code die HEX oder RGB Codes ändern gehen. Zum Schluss habe ich mich darum gekümmert, das die 3 Seiten auf welchen ich Informationen darstellen will, schonmal existieren. Ich habe mich dazu entschieden alles auf einer Seite zu machen, jedes Thema ist in eine "section" unterteilt. Durch die Navigation am Anfang kann man dann zu diesen einzelnen "sections" Scrollen/Springen.
 
-Vergessen Sie nicht, die angepasste Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
+
 
 &nbsp;
  
@@ -62,12 +63,10 @@ Vergessen Sie nicht, die angepasste Version Ihrer Start-Seite in der entsprechen
 
 ## 07.03.2025
 
-- [ ] 
-- [ ] CV-Seite erstellen
-- [ ] Start-Seite 1
-- [ ] Start-Seite 2
-- [ ] Rückmeldung geben.
-
+- [ ] Die "Willkommensseite" mittels CSS attraktiv darstellen.
+- [ ] Informationen über mich auf der Seite "About Me" darstellen
+- [ ] Auf der letzten Seite einen Link zu wichtigen Projekten auf GitHub
+(Das 2. Topic, den Lebenslauf (CV), schreiben wir in der Kantonsschule. Diesen füge ich in der Website ein, sobald dieser erstellt wurde)
  &nbsp;
 
 **Heute habe ich... (50-100 Wörter)**
