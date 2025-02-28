@@ -64,7 +64,7 @@ Zuerst habe ich ein LinkedIn Profil erstellt und diesem Informationen über mich
 
 - [ ] Die "Willkommensseite" mittels CSS attraktiv darstellen.
 - [ ] Informationen über mich auf der Seite "About Me" darstellen
-- [ ] Auf der letzten Seite einen Link zu wichtigen Projekten auf GitHub
+- [ ] Auf der letzten Seite einen Link zu wichtigen Projekten auf GitHub                                                          
 (Das 2. Topic, den Lebenslauf (CV), schreiben wir in der Kantonsschule. Diesen füge ich in der Website ein, sobald dieser erstellt wurde)
 
  &nbsp;
