@@ -55,7 +55,7 @@ Vergessen Sie nicht, einen ersten Entwurf Ihrer Start-Seite in der entsprechende
 **Heute habe ich... (50-100 Wörter)**
 Zuerst habe ich ein LinkedIn Profil erstellt und diesem Informationen über mich hinzugefügt. Danach habe ich mein GitHub-Profil schöner gestaltet und ein Readme.md hinzugefügt, in welchem kurz paar Dinge zu meiner Person stehen. Als ich mit diesen zwei Aufträgen fertig war, arbeitete ich weiter an meiner Bewerbungswebsite. Ich habe zuerst nach einem Farbschema gesucht, damit ich Variablen definieren konnte. Diese kann ich dann später immer noch ändern und muss dadurch nicht im ganzen Code die HEX oder RGB Codes ändern gehen. Zum Schluss habe ich mich darum gekümmert, das die 3 Seiten auf welchen ich Informationen darstellen will, schonmal existieren. Ich habe mich dazu entschieden alles auf einer Seite zu machen, jedes Thema ist in eine "section" unterteilt. Durch die Navigation am Anfang kann man dann zu diesen einzelnen "sections" Scrollen/Springen.
 
-LinkedIn-Porfil: https://www.linkedin.com/in/fynn-huber-654785353/
+LinkedIn-Profil: https://www.linkedin.com/in/fynn-huber-654785353/
 
 &nbsp;
  
