@@ -63,7 +63,7 @@ LinkedIn-Profil: https://www.linkedin.com/in/fynn-huber-654785353/
 
 ## 07.03.2025
 
-- [ ] Die "Willkommensseite" mittels CSS attraktiv darstellen.
+- [x] Die "Willkommensseite" mittels CSS attraktiv darstellen.
 - [ ] Informationen über mich auf der Seite "About Me" darstellen
 - [ ] Auf der letzten Seite einen Link zu wichtigen Projekten auf GitHub                                                          
 (Das 2. Topic, den Lebenslauf (CV), schreiben wir in der Kantonsschule. Diesen füge ich in der Website ein, sobald dieser erstellt wurde)
@@ -71,8 +71,7 @@ LinkedIn-Profil: https://www.linkedin.com/in/fynn-huber-654785353/
  &nbsp;
 
 **Heute habe ich... (50-100 Wörter)**
-
-Vergessen Sie nicht, die fertige Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
+Ich habe heute sehr viel Zeit damit verbracht, Animationen auf der Willkommensseite zu erstellen. Dies hat länger gedauert als gedacht und ich habe mich etwas darin verloren. Zuerst habe ich mithilfe eines Tutorials eine Schreibanimation meines Namens und meines Satzes gemacht, damit der Text beim Öffnen der Website hingeschrieben wird. Anschliessend habe ich das Design der navbar etwas verändert, damit diese besser Aussieht. Anschliessend habe ich noch einen Hover Effekt hinzugefügt.
 
 &nbsp;
  
@@ -80,11 +79,10 @@ Vergessen Sie nicht, die fertige Version Ihrer Start-Seite in der entsprechenden
 
 ## 14.03.2025
 
-- [ ] 
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Bewerbungswesite About Me fertig machen 
+- [ ] Berwerbungswebsite Projekte verlinken die wichtig sind
+- [ ] Die verlinkten Projekte nochmal durschauen und allenfalls ausbessern
+
 
 &nbsp;
 
