@@ -79,9 +79,9 @@ Ich habe heute sehr viel Zeit damit verbracht, Animationen auf der Willkommensse
 
 ## 14.03.2025
 
-- [ ] Bewerbungswesite About Me fertig machen 
-- [ ] Berwerbungswebsite Projekte verlinken die wichtig sind
-- [ ] Die verlinkten Projekte nochmal durschauen und allenfalls ausbessern
+- [ ] Grundlagen des Python framework tkinter lernen
+- [ ] Mit Python eine Digitaluhr machen
+- [ ] zusätzlich zu der Uhr noch ein Timer den man stellen kann. 
 
 
 &nbsp;
