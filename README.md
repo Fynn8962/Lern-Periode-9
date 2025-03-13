@@ -79,13 +79,15 @@ Ich habe heute sehr viel Zeit damit verbracht, Animationen auf der Willkommensse
 
 ## 14.03.2025
 
-- [ ] Grundlagen des Python framework tkinter lernen
-- [ ] Mit Python eine Digitaluhr machen
+- [x] Grundlagen des Python framework tkinter lernen
+- [x] Mit Python eine Digitaluhr machen
 - [ ] zusätzlich zu der Uhr noch ein Timer den man stellen kann. 
 
 
 &nbsp;
 
 **Heute habe ich... (50-100 Wörter)**
+Da ich die Grundlagen des Frameworks aus lange weile, in meiner Freizeit schon angeschaut habe, musste ich nur noch herausfinden, wie man Dinge an gewissen Stellen im Window platziert. Durch ein Youtubevideo habe ich gelernt, dass es wie in CSS ein Grid Layout gibt, da ich mit diesem schon bekannt bin, habe ich mich für diese Methode entschieden. Anschliessen habe ich in einem neuen Projekt zuerst mal das Grid erstellt und dann die ersten Labels um die Uhrzeit anzuzeigen. Das Anzeigen und Aktualisieren der Uhrzeit waren keine grosse Sache, es gibt genügend Tutorials die zeigen, wie dies geht, ich habe den Code einfach so abgeändert das es für mein Programm funktioniert und schon hatte ich eine funktionierende Uhr. ....
 
-Vergessen Sie nicht, einen ersten Code Ihres Projektes in dieser Ablage hochzuladen.
+noch nicht fertig... 
+code noch hochladen...
