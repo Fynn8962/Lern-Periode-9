@@ -87,7 +87,20 @@ Ich habe heute sehr viel Zeit damit verbracht, Animationen auf der Willkommensse
 &nbsp;
 
 **Heute habe ich... (50-100 Wörter)**
-Da ich die Grundlagen des Frameworks aus lange weile, in meiner Freizeit schon angeschaut habe, musste ich nur noch herausfinden, wie man Dinge an gewissen Stellen im Window platziert. Durch ein Youtubevideo habe ich gelernt, dass es wie in CSS ein Grid Layout gibt, da ich mit diesem schon bekannt bin, habe ich mich für diese Methode entschieden. Anschliessen habe ich in einem neuen Projekt zuerst mal das Grid erstellt und dann die ersten Labels um die Uhrzeit anzuzeigen. Das Anzeigen und Aktualisieren der Uhrzeit waren keine grosse Sache, es gibt genügend Tutorials die zeigen, wie dies geht, ich habe den Code einfach so abgeändert das es für mein Programm funktioniert und schon hatte ich eine funktionierende Uhr. ....
+Da ich die Grundlagen des Frameworks aus lange weile, in meiner Freizeit schon angeschaut habe, musste ich nur noch herausfinden, wie man Dinge an gewissen Stellen im Window platziert. Durch ein Youtubevideo habe ich gelernt, dass es wie in CSS ein Grid Layout gibt, da ich mit diesem schon bekannt bin, habe ich mich für diese Methode entschieden. Anschliessen habe ich in einem neuen Projekt zuerst mal das Grid erstellt und dann die ersten Labels um die Uhrzeit anzuzeigen. Das Anzeigen und Aktualisieren der Uhrzeit waren keine grosse Sache, es gibt genügend Tutorials die zeigen, wie dies geht, ich habe den Code einfach so abgeändert das es für mein Programm funktioniert und schon hatte ich eine funktionierende Uhr. Anschliessend habe ich angefangen den Timer zu implementieren, jedoch habe ich bis jetzt nur die dazugehörige Benutzeroberfläche und nicht die Funktion des Timers erstellt. Den Code habe ich hochgeladen.
 
-noch nicht fertig... 
-code noch hochladen...
+&nbsp;
+ 
+&nbsp;
+
+## 21.03.2025
+
+- [ ] Timer Funktion implementieren das bei auslösen ein Effekt oder Ton kommt. 
+- [ ] Nach dem gleichen Prinzip wie der Timer eine Stopwatch implementieren.
+- [ ] DIe Funktion der Stoptwatch implementieren. 
+- [ ] Einen bereich für Settings erstellen in welchem ANzeigefarbe, Dartellungsart (12h/24h) ausgewählt werden können.
+
+
+&nbsp;
+
+**Heute habe ich... (50-100 Wörter)**
