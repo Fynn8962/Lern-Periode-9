@@ -2,7 +2,7 @@ import time
 import tkinter as tk
 import ttkbootstrap as ttk
 from time import strftime
-from datetime import datetime
+
 timer_running = False  
 
 def update_clock():
