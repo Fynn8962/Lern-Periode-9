@@ -95,10 +95,28 @@ Da ich die Grundlagen des Frameworks aus lange weile, in meiner Freizeit schon a
 
 ## 21.03.2025
 
-- [ ] Timer Funktion implementieren das bei auslösen ein Effekt oder Ton kommt. 
-- [ ] Nach dem gleichen Prinzip wie der Timer eine Stopwatch implementieren.
+- [x] Timer Funktion implementieren das bei auslösen ein Effekt oder Ton kommt. 
+- [x] Nach dem gleichen Prinzip wie der Timer eine Stopwatch implementieren.
 - [ ] DIe Funktion der Stoptwatch implementieren. 
 - [ ] Einen bereich für Settings erstellen in welchem ANzeigefarbe, Dartellungsart (12h/24h) ausgewählt werden können.
+
+
+&nbsp;
+
+**Heute habe ich... (50-100 Wörter)**
+Zuerst habe ich die Funktion für den Timer implementiert, zuerst hatte ich eine falsche Herangehensweise, da ich die Eingabe in nur einen Entry machen wollte, was es kompliziert gemacht hätte die Sekunden, Minuten und Stunden zu trennen und auch für den Benutzer umständlich gewesen wäre, die Zeit einzugeben. Deshalb habe ich mich dazu entschieden 3 Entry zu benutzen, das erste für Stunden, zweite für Minuten und das Dritte für Sekunden. Anschliessend habe ich die Benutzeroberfläche für die Stopwatch hinzugefügt und das Layout danach etwas angepasst, da es nicht so schön war. Dann wollte ich die Stopwatch Funktion implementieren, dies war jedoch schwerer als gedacht. Am Schluss hatte ich keine Übersicht mehr über die Funktionen und deren Nutzen, weshalb ich mich dazu entschieden habe nochmal alles zu entfernen und die Funktion beim nächsten Mal zu implementieren.
+(Der Code ist hochgeladen)
+
+&nbsp;
+ 
+&nbsp;
+
+## 28.03.2025
+
+- [ ] Die Funktion der Stoptwatch implementieren. 
+- [ ] Einen bereich für Settings erstellen in welchem Anzeigefarbe, Dartellungsart (12h/24h) usw. ausgewählt werden können.
+- [ ] Einen Ton hinzufügen wenn der Timer abgelaufen ist, Möglichkeit den Timer zu Pausieren.
+- [ ] Das GUI farblich anpassen und die Einzelnen Elemente so Anpassen das sie gut aussehen. 
 
 
 &nbsp;
