@@ -116,7 +116,7 @@ Zuerst habe ich die Funktion für den Timer implementiert, zuerst hatte ich eine
 - [ ] Die Funktion der Stoptwatch implementieren. 
 - [ ] Eine Dritte Anzeige für einen Wecker hinzufügen
 - [ ] Die Funktion des Weckers mit implementieren 
-- [ ] Das GUI farblich anpassen und die Einzelnen Elemente so Anpassen das sie gut aussehen.
+- [ ] Einstellungen um verschieden Themes auszuwählen (hell, dunkel etc.)
 
 &nbsp;
 
