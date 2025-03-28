@@ -121,3 +121,4 @@ Zuerst habe ich die Funktion für den Timer implementiert, zuerst hatte ich eine
 &nbsp;
 
 **Heute habe ich... (50-100 Wörter)**
+zusätzlich änderungen gemacht we das eingabe einfacher geht, timer flüssiger lauft (kein code block)
