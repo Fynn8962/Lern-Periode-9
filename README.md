@@ -112,7 +112,6 @@ Zuerst habe ich die Funktion für den Timer implementiert, zuerst hatte ich eine
 &nbsp;
 
 ## 28.03.2025
-
 - [x] Die Funktion der Stoptwatch implementieren. 
 - [x] Den Timer so verändern damit man ihn Stoppen und zurücksetzen kann.
 - [x] Die Funktion des Weckers mit implementieren 
@@ -122,3 +121,16 @@ Zuerst habe ich die Funktion für den Timer implementiert, zuerst hatte ich eine
 
 **Heute habe ich... (50-100 Wörter)**
 Zuerst habe ich die Stopwatch als zweite Funktion meiner Python Applikation implementiert. Diese kann gestartet, gestoppt und zurückgesetzt werden. Als ich fertig war, habe ich gemerkt, dass es hilfreich wäre, wenn der Timer auch eine Start, stopp und Restart Funktion hätte. Also habe ich dieselbe Funktion beim Timer hinzugefügt. Ausserdem habe ich beim Clickevent auf das Eingabefeld hinzugefügt, dass es den Text (die vorhandenen Nullen) automatisch markiert. Somit muss man diese nicht herauslöschen, sondern kann einfach seine beliebigen Zahlen eingeben. Anschliessen habe ich eine ähnlich wie Timer und Stoppuhr eine Wecker Benutzeroberfläche hinzugefügt und dazu auch dessen Funktion. Anders als beim Timer oder bei der Stoppuhr läuft der Wecker auch im Hintergrund weiter (was im Button angezeigt wird). Es wäre nun von Vorteil dies auch für den Timer zu übernehmen, jedoch fehlt mir dazu die Zeit, weshalb ich dies ausserhalb der Lernperiode machen werde und es später in der Projektbeschreibung hinzufüge.
+
+&nbsp;
+ 
+&nbsp;
+
+## 04.04.2025
+- [ ] Eingabeüberprüfung damit keine ungültigen Werte eingegeben werden können
+- [ ] Variabeln überarbeiten damit eine konsistente Namensgebung vorhanden ist
+- [ ] Code überaurbeiten, Layout, Zeilenabstände etc. (refactoring)
+      
+&nbsp;
+
+**Heute habe ich... (50-100 Wörter)**
