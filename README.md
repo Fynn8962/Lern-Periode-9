@@ -114,7 +114,7 @@ Zuerst habe ich die Funktion für den Timer implementiert, zuerst hatte ich eine
 ## 28.03.2025
 
 - [x] Die Funktion der Stoptwatch implementieren. 
-- [ ] Eine Dritte Anzeige für einen Wecker hinzufügen
+- [ ] Den Timer so verändern damit man ihn Stoppen und zurücksetzen kann.
 - [ ] Die Funktion des Weckers mit implementieren 
 - [ ] Einstellungen um verschieden Themes auszuwählen (hell, dunkel etc.)
 
