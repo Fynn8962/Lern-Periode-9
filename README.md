@@ -127,10 +127,11 @@ Zuerst habe ich die Stopwatch als zweite Funktion meiner Python Applikation impl
 &nbsp;
 
 ## 04.04.2025
-- [ ] Eingabeüberprüfung damit keine ungültigen Werte eingegeben werden können
+- [x] Eingabeüberprüfung damit keine ungültigen Werte eingegeben werden können
 - [ ] Variabeln überarbeiten damit eine konsistente Namensgebung vorhanden ist
 - [ ] Code überaurbeiten, Layout, Zeilenabstände etc. (refactoring)
       
 &nbsp;
 
 **Heute habe ich... (50-100 Wörter)**
+Ich habe für die Timerfunktion und die Weckerfunktion eine Eingabeüberprüfung implementiert, damit, wenn eine zu grosse Zahl oder ein Buchstabe eingegeben wird, der Wert zurückgesetzt wird. 
