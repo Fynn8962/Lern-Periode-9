@@ -27,6 +27,8 @@ Die Applikation lässt sich je nach Wünschen des Users benutzen. Man kann alle 
 
 -------------------
 
+&nbsp;
+
 ## Grob-Planung
 
 **1. Welche Projekte haben Sie bereits auf Ihrem github, welche Sie verlinken könnten?**                    
