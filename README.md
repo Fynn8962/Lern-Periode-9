@@ -1,8 +1,4 @@
-# Lern-Periode 9
-21.02.2025 bis 04.04.2025
-
-
-## Mein Projekt
+# Mein Projekt
 [Projektfile](https://github.com/Fynn8962/Lern-Periode-9/blob/main/alarmClock/alarm_python.py)                            
 Die Python alarm-clock ist eine in Python Programmierte Uhr mithilfe der tkinter library. Das Design ist simple gehalten, der Fokus liegt nicht wirklich auf schönem Aussehen. Die hat neben dem anzeigen der Zeit noch drei weitere Funktionen, einen Wecker, einen Timer und eine Stoppuhr.                
   
@@ -29,6 +25,10 @@ Die Applikation lässt sich je nach Wünschen des Users benutzen. Man kann alle 
 -------------------
 
 &nbsp;
+# Lern-Periode 9
+21.02.2025 bis 04.04.2025
+
+
 
 ## Grob-Planung
 
