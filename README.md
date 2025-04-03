@@ -38,7 +38,7 @@ Die Applikation lässt sich je nach Wünschen des Users benutzen. Man kann alle 
 **3. Was wäre ein gutes Projekt für die zweite Hälfte dieser Lern-Periode?**                                                    
         Alarm Clock (zeit, Countdowm, Stopwatch, alarm) / Wechselkurs umrechner mit API    
         
-
+-------------------
 &nbsp;
  
 &nbsp;
