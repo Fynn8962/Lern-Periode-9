@@ -135,3 +135,6 @@ Zuerst habe ich die Stopwatch als zweite Funktion meiner Python Applikation impl
 
 **Heute habe ich... (50-100 Wörter)**
 Ich habe für die Timerfunktion und die Weckerfunktion eine Eingabeüberprüfung implementiert, damit, wenn eine zu grosse Zahl oder ein Buchstabe eingegeben wird, der Wert zurückgesetzt wird. Danach habe ich mithilfe von "flake8" den Code PEP8 konform gemacht. Ich habe die meisten Fehler behoben, inklusiven den zu langen Zeilen. Ich finde, das Kürzen der Zeichen hat an manchen Stellen den Code etwas unübersichtlicher gemacht, weshalb ich mir nicht sicher bin, ob es nicht besser wäre dies zurückzurudern. Im hochgeladenen Code sind die Zeilen nach PEP8 gekürzt. Am Schluss bin ich nochmal meine Variablennamen durchgegangen und habe gewisse davon abgeändert, damit es zum Rest passt.
+
+## Reflexion
+
