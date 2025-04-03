@@ -4,13 +4,13 @@
 
 ## Mein Projekt
 Die Python alarm-clock ist eine in Python Programmierte Uhr mithilfe der tkinter library. Das Design ist simple gehalten, der Fokus liegt nicht wirklich auf schönem Aussehen. Die hat neben dem anzeigen der Zeit noch drei weitere Funktionen, einen Wecker, einen Timer und eine Stoppuhr. 
-
+<img src="https://github.com/Fynn8962/Python-Alarm-Clock/blob/main/images/AlarmClockPrototype.png" alt="Alarm Clock Prototype" width="500" >
 **Wecker:** Der Wecker kann auf eine beliebige Zeit gestellt werden und wird dann oben links angezeigt. Wird die Uhrzeit erreicht ertöhnt ein Ton und im Fenster wird ein Text angezeigt. 
-
+<img src="https://github.com/Fynn8962/Python-Alarm-Clock/blob/main/images/AlarmClockPrototype.png" alt="Alarm Clock Prototype" width="500" >
 **Timer:** Der Timer lässt sich auf die Sekunde genau stellen. Auch dieser läuft im Hintergrund weiter und wird im dazugehörigen Feld angezeit. Stoppt man den Timer bleibt er in diesem Zustand bis er entweder wieder gestartet oder zurückgesetzt wird. 
-
+<img src="https://github.com/Fynn8962/Python-Alarm-Clock/blob/main/images/AlarmClockPrototype.png" alt="Alarm Clock Prototype" width="500" >
 **Stoppuhr:** Die Stoppuhr zählt die Zeit auf Millisekunden genau nach oben. Im Gegensatz zum Wecker und zum Timer läuft diese zwar im Hintergrund weiter, wird jedoch nicht passig angezeigt. (Passive Anzeige wird noch folgen, Stand 03.04.2025)
-
+<img src="https://github.com/Fynn8962/Python-Alarm-Clock/blob/main/images/AlarmClockPrototype.png" alt="Alarm Clock Prototype" width="500" >
 Die Applikation lässt sich je nach Wünschen des Users benutzen. Man kann alle funktionen gleichzeitig benutzen oder einfach nur die Zeit sich auf die Sekunde genau anzeigen lassen.
 
 
