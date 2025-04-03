@@ -7,17 +7,21 @@ Die Python alarm-clock ist eine in Python Programmierte Uhr mithilfe der tkinter
   
 <img src="https://github.com/Fynn8962/Lern-Periode-9/blob/main/images/python_clock.png" alt="Uhr GUI" width="500" >
 
+
 **Wecker:** Der Wecker kann auf eine beliebige Zeit gestellt werden und wird dann oben links angezeigt. Wird die Uhrzeit erreicht ertöhnt ein Ton und im Fenster wird ein Text angezeigt.                
 
 <img src="https://github.com/Fynn8962/Lern-Periode-9/blob/main/images/python_alarm.png" alt="Wecker GUI" width="500" >
+
 
 **Timer:** Der Timer lässt sich auf die Sekunde genau stellen. Auch dieser läuft im Hintergrund weiter und wird im dazugehörigen Feld angezeit. Stoppt man den Timer bleibt er in diesem Zustand bis er entweder wieder gestartet oder zurückgesetzt wird.                  
 
 <img src="https://github.com/Fynn8962/Lern-Periode-9/blob/main/images/python_timer.png" alt="Timer GUI" width="500" >
 
+
 **Stoppuhr:** Die Stoppuhr zählt die Zeit auf Millisekunden genau nach oben. Im Gegensatz zum Wecker und zum Timer läuft diese zwar im Hintergrund weiter, wird jedoch nicht passig angezeigt. (Passive Anzeige wird noch folgen, Stand 03.04.2025)                   
 
 <img src="https://github.com/Fynn8962/Lern-Periode-9/blob/main/images/python_stopwatch.png" alt="Stoppuhr GUI" width="500" >
+
 
 Die Applikation lässt sich je nach Wünschen des Users benutzen. Man kann alle funktionen gleichzeitig benutzen oder einfach nur die Zeit sich auf die Sekunde genau anzeigen lassen.
 
