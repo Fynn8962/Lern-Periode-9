@@ -24,7 +24,7 @@ Die Python alarm-clock ist eine in Python Programmierte Uhr mithilfe der tkinter
 
 
 Die Applikation lässt sich je nach Wünschen des Users benutzen. Man kann alle funktionen gleichzeitig benutzen oder einfach nur die Zeit sich auf die Sekunde genau anzeigen lassen.
-
+-------------------
 
 ## Grob-Planung
 
@@ -38,7 +38,7 @@ Die Applikation lässt sich je nach Wünschen des Users benutzen. Man kann alle 
 **3. Was wäre ein gutes Projekt für die zweite Hälfte dieser Lern-Periode?**                                                    
         Alarm Clock (zeit, Countdowm, Stopwatch, alarm) / Wechselkurs umrechner mit API    
         
--------------------
+
 &nbsp;
  
 &nbsp;
